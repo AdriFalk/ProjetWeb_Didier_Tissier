@@ -1,0 +1,15 @@
+{
+  "name": "express-beers-master",
+  "version": "1.0.0",
+  "description": "## A server-side companion to the [Angular Beers](https://github.com/LostInBrittany/angular-beers) and [Polymer Beers](https://github.com/LostInBrittany/polymer-beers) projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10"
+  }
+}

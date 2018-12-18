@@ -1,0 +1,261 @@
+
+      {
+        "id": "onion",
+        "calories": "34.6",
+        "protein": "1.3",
+        "carbohydrate": "6.02",
+        "lipid": "0.2",
+        "potassium": "218",
+        "phosphorus": "44",
+        "sodium": "0",    
+        "calcium": "0",
+        "iron": "0.21",
+        "zinc": "0.19"        
+      }
+      {
+        "id": "chicken",
+        "calories": "124",
+        "protein": "22.2",
+        "carbohydrate": "0",
+        "lipid": "3.93",
+        "potassium": "287",
+        "phosphorus": "480",
+        "sodium": "51",    
+        "calcium": "13.7",
+        "iron": "0.74",
+        "zinc": "0.86"        
+      }
+      {
+        "id": "pasta",
+        "calories": "275",
+        "protein": "10,8",
+        "carbohydrate": "48.9",
+        "lipid": "4",
+        "potassium": "179",
+        "phosphorus": "163",
+        "sodium": "26",    
+        "calcium": "15",
+        "iron": "1.2",
+        "zinc": "1.22"        
+      }
+      {
+        "id": "tomato",
+        "calories": "15",
+        "protein": "0.68",
+        "carbohydrate": "2.80",
+        "lipid": "0.10",
+        "potassium": "204",
+        "phosphorus": "28",
+        "sodium": "13",    
+        "calcium": "13",
+        "iron": "0.51",
+        "zinc": "0.07"        
+      }
+      {
+        "id": "eggs",
+        "calories": "148",
+        "protein": "12.3",
+        "carbohydrate": "0.8",
+        "lipid": "10.6",
+        "potassium": "126",
+        "phosphorus": "172",
+        "sodium": "117",    
+        "calcium": "69.9",
+        "iron": "1.64",
+        "zinc": "1.05"        
+      }
+      {
+        "id": "banana",
+        "calories": "88.1",
+        "protein": "0.9",
+        "carbohydrate": "20.2",
+        "lipid": "0.22",
+        "potassium": "41.3",
+        "phosphorus": "16",
+        "sodium": "0.7",    
+        "calcium": "4.8",
+        "iron": "0.32",
+        "zinc": "0.16"        
+      }
+      {
+        "id": "butter",
+        "calories": "748",
+        "protein": "0.7",
+        "carbohydrate": "0.5",
+        "lipid": "82.6",
+        "potassium": "13",
+        "phosphorus": "24",
+        "sodium": "12",    
+        "calcium": "14.5",
+        "iron": "0.2",
+        "zinc": "0.05"        
+      }
+      {
+        "id": "biscuit",
+        "calories": "446",
+        "protein": "8.3",
+        "carbohydrate": "73.8",
+        "lipid": "13.1",
+        "potassium": "164",
+        "phosphorus": "152",
+        "sodium": "369",    
+        "calcium": "42",
+        "iron": "1.5",
+        "zinc": "0.95"        
+      }
+      {
+        "id": "celery",
+        "calories": "16",
+        "protein": "0.69",
+        "carbohydrate": "2.97",
+        "lipid": "0.17",
+        "potassium": "260",
+        "phosphorus": "24",
+        "sodium": "80",    
+        "calcium": "40",
+        "iron": "0.2",
+        "zinc": "0.13"        
+      }
+      {
+        "id": "bread",
+        "calories": "236",
+        "protein": "7.4",
+        "carbohydrate": "49.3",
+        "lipid": "1",
+        "potassium": "87.8",
+        "phosphorus": "77.1",
+        "sodium": "519",    
+        "calcium": "21.7",
+        "iron": "1.3",
+        "zinc": "1.27"        
+      }
+      {
+        "id": "rice",
+        "calories": "130",
+        "protein": "2.8",
+        "carbohydrate": "28.8",
+        "lipid": "0.37",
+        "potassium": "56",
+        "phosphorus": "55",
+        "sodium": "2",    
+        "calcium": "19",
+        "iron": "0.24",
+        "zinc": "0.37"        
+      }
+      {
+        "id": "orange",
+        "calories": "49",
+        "protein": "0.91",
+        "carbohydrate": "12.54",
+        "lipid": "0.15",
+        "potassium": "166",
+        "phosphorus": "23",
+        "sodium": "1",    
+        "calcium": "43",
+        "iron": "0.13",
+        "zinc": "0.08"        
+      }
+      {
+        "id": "apple",
+        "calories": "52",
+        "protein": "0.26",
+        "carbohydrate": "13.81",
+        "lipid": "0.17",
+        "potassium": "107",
+        "phosphorus": "11",
+        "sodium": "1",    
+        "calcium": "6",
+        "iron": "0.12",
+        "zinc": "0.04"        
+      }
+      {
+        "id": "lentils",
+        "calories": "107",
+        "protein": "8.2",
+        "carbohydrate": "17.5",
+        "lipid": "0.5",
+        "potassium": "309",
+        "phosphorus": "164",
+        "sodium": "3.8",    
+        "calcium": "27.2",
+        "iron": "3.07",
+        "zinc": "1.03"        
+      }
+      {
+        "id": "milk",
+        "calories": "48.5",
+        "protein": "3.96",
+        "carbohydrate": "4.6",
+        "lipid": "1.58",
+        "potassium": "165",
+        "phosphorus": "85.7",
+        "sodium": "49.6",    
+        "calcium": "115",
+        "iron": "0.16",
+        "zinc": "0.51"        
+      }
+      {
+        "id": "nutella",
+        "calories": "539",
+        "protein": "6.3",
+        "carbohydrate": "57.5",
+        "lipid": "30.9",
+        "potassium": "0",
+        "phosphorus": "0",
+        "sodium": "0.107",    
+        "calcium": "0",
+        "iron": "0",
+        "zinc": "01"        
+      }
+      {
+        "id": "green bean",
+        "calories": "30",
+        "protein": "2.4",
+        "carbohydrate": "4.6",
+        "lipid": "0.2",
+        "potassium": "370",
+        "phosphorus": "102",
+        "sodium": "6",    
+        "calcium": "63",
+        "iron": "1.08",
+        "zinc": "0.64"        
+      }
+      {
+        "id": "carrot",
+        "calories": "41",
+        "protein": "0.93",
+        "carbohydrate": "9.58",
+        "lipid": "0.24",
+        "potassium": "320",
+        "phosphorus": "35",
+        "sodium": "69",    
+        "calcium": "33",
+        "iron": "0.3",
+        "zinc": "0.24"        
+      }
+      {
+        "id": "emmental",
+        "calories": "383",
+        "protein": "28.4",
+        "carbohydrate": "0.3",
+        "lipid": "29.6",
+        "potassium": "88.6",
+        "phosphorus": "666",
+        "sodium": "244",    
+        "calcium": "1055",
+        "iron": "0.38",
+        "zinc": "4.52"        
+      }
+      {
+        "id": "nuts",
+        "calories": "655",
+        "protein": "15.23",
+        "carbohydrate": "13.71",
+        "lipid": "65.21",
+        "potassium": "441",
+        "phosphorus": "346",
+        "sodium": "2",    
+        "calcium": "98",
+        "iron": "2.91",
+        "zinc": "3.09"        
+      }

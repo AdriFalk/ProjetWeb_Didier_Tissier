@@ -1,0 +1,66 @@
+
+      {
+        "id": "HalfBody1",
+        "img": "/img/HalfBody1.jpg",
+        "name": "Half Body haut du corps",
+        "type": "halfbody",
+        "link": "https://www.youtube.com/embed/-3ZusiRiE5g",
+        "description": "In this program you train the chest, the back, the arms in the first session and the legs, the shoulders in an other.",
+        "level": "intermediate"
+      }
+      {
+        "id": "HalfBody2",
+        "name": "Half Body bas du corps",
+        "type": "halfbody",
+        "link": "https://www.youtube.com/embed/sRp0ErdytCc",
+        "description": "In this program you train the chest, the back, the arms in the first session and the legs, the shoulders in an other.",
+        "level": "intermediate"
+      }
+      {
+        "id": "FullBody1",
+        "name": "Full Body 1",
+        "type": "fullbody",
+        "link": "https://www.youtube.com/embed/zJMadH1Ne9A",
+        "description": "In this program you train all your body every session.",
+        "level": "beginner"
+      }
+      {
+        "id": "FullBody2",
+        "name": "Full Body 2",
+        "type": "fullbody",
+        "link": "https://www.youtube.com/embed/P8iDjDL_5v4",
+        "description": "In this program you train all your body every session.",
+        "level": "intermediate"
+      }
+      {
+        "id": "PPL1",       
+        "name": "Push Pull Legs 1",
+        "type": "PPL",
+        "link": "https://www.youtube.com/embed/zNvPKjTFd9c",
+        "description": "In this program you train all the parts of your body but the sports sessions are divide according to the 3 movements: push, pull, legs.",
+        "level": "intermediate"
+      }
+      {
+        "id": "PPL2",
+        "name": "Push Pull Legs 2",
+        "type": "PPL",
+        "link": "https://www.youtube.com/embed/AGlpMsRVu4E",
+        "description": "In this program you train all the parts of your body but the sports sessions are divide according to the 3 movements: push, pull, legs.",
+        "level": "intermediate"
+      }
+      {
+        "id": "Split1",
+        "name": "Split 1",
+        "type": "Split",
+        "link": "https://www.youtube.com/embed/EHf3IJk2e0k",
+        "description": "In this program you train a muscle per session.",
+        "level": "advanced "
+      }
+      {
+        "id": "Cardio1",
+        "name": "32 Minute Home Cardio Workout with No Equipment",
+        "type": "Cardio",
+        "link": "https://www.youtube.com/embed/qWy_aOlB45Y",
+        "description": "You want to start in cardio but you live in city ?  Watch this new training and begin ready for the next IronFest!",
+        "level": "beginner"
+      }
